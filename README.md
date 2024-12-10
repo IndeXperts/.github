@@ -1,3 +1,3 @@
-# indeXperts
+# IndeXperts
 
 ![Metrics](/github-metrics.svg)
