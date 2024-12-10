@@ -1,1 +1,3 @@
-# .github
+# indeXperts
+
+![Metrics](/github-metrics.svg)
